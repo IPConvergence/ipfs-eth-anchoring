@@ -1,0 +1,18 @@
+nohup: ignoring input
+
+> eth-ipfs@0.1.0 start /home/blockchain/devCode/eth-ipfs-master
+> react-scripts start
+
+Starting the development server...
+
+Compiled successfully!
+
+You can now view eth-ipfs in the browser.
+
+  http://localhost:3000/
+
+Note that the development build is not optimized.
+To create a production build, use npm run build.
+
+Compiling...
+Compiled successfully!
