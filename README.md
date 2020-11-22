@@ -5,3 +5,6 @@ A simple DApp to upload a document to IPFS and then store the IPFS hash on the E
 To launch it, run "npm start" on the project directory
 Or launch it as a dedicated process: nohup npm start >> runningwebserver.log 2>&1 &
 
+You can test the demonstrator (not garantee to be up all the time, this is test env, no SLA): http://blockchainbeta.eu:3000/
+
+
